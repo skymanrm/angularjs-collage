@@ -33,7 +33,7 @@ Array of images with width\&height parameters, example:
 
 ###Result
 
-![Result](https://github.com/skymanrm/angularjs-collage/example_collage.png)
+![Result](https://raw.githubusercontent.com/skymanrm/angularjs-collage/master/example_collage.png)
 
 
 ###Requirements
